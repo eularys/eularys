@@ -1,5 +1,5 @@
 ### Hello 👋
-## I am Laryssa Decliê
+## I'm Laryssa Decliê
 - Eu moro no Brasil, Contagem.
 - Sou estudante de Biomedicina na Puc Minas.
 - Apaixonada por tecnologia e em transição de carreira para a area de desenvolvimento de software.
